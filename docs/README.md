@@ -4,7 +4,7 @@
 
         ESP32 development board
         Tact switch
-        3 Dupont cables
+        Dupont cables
 
 ##      Connections
 
