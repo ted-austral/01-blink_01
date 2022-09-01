@@ -2,7 +2,7 @@
 
 /*
  *  Project 01-blink_01
- *      Blinks a LED changing blink frequency by pushing a key
+ *      Blinks a LED changing blink frequency by pushing a
  *      key connected to ground, so program must add pullup resistor
  *      Prints delay in milliseconds
  *      Austral 2022 - IntroCom - EAM
